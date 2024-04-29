@@ -1,2 +1,1 @@
-# Sketchboard
-A simple sketchboard made using Flutter
+#Flutter app: Sketch board
